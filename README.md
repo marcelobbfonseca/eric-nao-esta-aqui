@@ -1,6 +1,12 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ecd0556e-c87b-46a6-aa3c-e3869a20ec34/deploy-status)](https://app.netlify.com/sites/eric-nao-esta/deploys)
+
+
 # nuxt-eric
 
-> google for me
+## Production
+https://eric-nao-esta.netlify.com
+
+> Question google for me
 
 ## Build Setup
 
